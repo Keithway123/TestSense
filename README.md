@@ -20,3 +20,9 @@ eg：解析测试日志，定位 FAIL Step，并给出候选原因与下一步�
 
 ## 项目阶段
 当前阶段: Python 项目初始化。
+
+## 运行
+
+```powershell
+uv run testsense
+```
