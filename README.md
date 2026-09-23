@@ -26,3 +26,8 @@ eg：解析测试日志，定位 FAIL Step，并给出候选原因与下一步�
 ```powershell
 uv run testsense
 ```
+## MVP Architecture
+
+<p align="center">
+  <img src="ProcessPNG/Step1_MVP.excalidraw.png" width="850">
+</p>
